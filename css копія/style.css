@@ -59,7 +59,7 @@ body {
   color: #2e2f42;
 }
 
-.secttion-one {
+.section-one {
   background-color: #2e2f42;
 }
 
@@ -90,6 +90,10 @@ body {
 
 .btn-primary:hover {
   background-color: #404bbf;
+}
+
+.section-two {
+  background-color: #2e2f42;
 }
 
 .section-two .head-advantages {
