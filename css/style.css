@@ -150,12 +150,13 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+}
 .logo-blue {
   color: #4d5ae5;
 }
 
 .logo-black {
-  color: #f4f4fd;
+  color: #2e2f42;
 }
 
 .fin {
@@ -167,6 +168,7 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
+
 
 ul {
   list-style: none;
