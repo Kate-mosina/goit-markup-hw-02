@@ -150,7 +150,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-}
+
 .logo-blue {
   color: #4d5ae5;
 }
@@ -168,7 +168,9 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-
+.logo-white {
+  color: #f4f4fd;
+}
 
 ul {
   list-style: none;
