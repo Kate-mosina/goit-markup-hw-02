@@ -150,13 +150,6 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.logo-blue {
-  color: #4d5ae5;
-}
-
-.logo-black {
-  color: #2e2f42;
-}
 
 .fin {
   background-color: #2e2f42;
@@ -167,11 +160,7 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.fin .logo-blue {
-  color: #f4f4fd;
-}
-
-.fin .logo-black {
+.logo-white {
   color: #f4f4fd;
 }
 
