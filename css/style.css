@@ -150,6 +150,13 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.logo-blue {
+  color: #4d5ae5;
+}
+
+.logo-black {
+  color: #2e2f42;
+}
 
 .fin {
   background-color: #2e2f42;
